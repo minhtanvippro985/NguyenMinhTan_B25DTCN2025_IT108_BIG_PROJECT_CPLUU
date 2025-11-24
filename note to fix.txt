@@ -1,0 +1,18 @@
+case : 1 
+   co khi la sai thu tu chuc nang
+
+   thieu phan nhap luong -1 , bao loi  (luong co ban < 0 thi LOI )
+   
+   
+   thieu check da ton tai!
+
+   chi thieu debug
+   
+    
+    
+case 2 :
+   
+   
+   THIEU ERROR MANG RONG
+   
+    
